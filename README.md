@@ -1,3 +1,2 @@
-# ini adalah repository untuk latihan membuat branch baru diGithub
- -melakukan perubahan pada branch development menggunakan akun kolaborator
-
+# ini adalah repository untuk latihan menggabungkan branch dalam Github
+ -melakukan perubahan kepada repository menggunakan akun pemilik dari repository
