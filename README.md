@@ -1,1 +1,1 @@
-# ini adalah repository untuk latihan membuat branch baru diGithub
+# ini adalah repository untuk latihan menggabungkan branch dalam Github
